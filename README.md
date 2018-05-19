@@ -2,7 +2,7 @@
 JavaScript tips&amp;tricks
 
 1. Hositing: hoisting.js
-2. Scope chain - 
+2. To understand Scope Chain context look at scopeChain*.js files.
 
 Tips&tricks
 1. Never set variable to undefined. Undefined is not the same as null.
