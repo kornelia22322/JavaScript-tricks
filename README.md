@@ -25,3 +25,11 @@ It’s only keeping track of events and send them to the Event Queue.
 ----------------------------------------------
 
 CLOSURES
+
+----------------------------------------------
+
+HOISTING
+
+An Execution Context is created each time you run your .js file/app.
+The first step in this creation phase is Hoisting.
+The JS Engine reserves space or set's up memory for all the variables and functions defined in your code.
